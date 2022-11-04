@@ -4,7 +4,7 @@
 
 Меня зовут Родион, сокращенно Родя, живу в Москве, занимаюсь fullstack разработкой сайтов, также делаю телеграм ботов и многое другое
 
-Примерный список того с чем я работаю исключая подробности:
+Примерный список того с чем я работаю:
 ### Frontend
 <img height="48px" src="https://user-images.githubusercontent.com/50911976/200022722-4fb239e7-1fe1-4ee5-8103-dfdf8f328e58.png"><img height="48px" src="https://user-images.githubusercontent.com/50911976/200022733-a2a81b40-f676-445d-bcf7-c5fd9e641b0f.png"><img height="48px" src="https://user-images.githubusercontent.com/50911976/200022739-614d6e22-4ecf-456e-b54a-1a8e845ebe97.png"><img height="48px" src="https://user-images.githubusercontent.com/50911976/200022746-a7d5e93b-5ca1-4909-802f-74a433a748ae.png"><img height="48px" src="https://user-images.githubusercontent.com/50911976/200022762-a733c5c0-1e22-4063-86f6-ba8635a45e3a.png">
 
